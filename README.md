@@ -66,16 +66,7 @@ Return to the repository root to rebuild only the public CSV tables and README f
 python scripts/build_public_results.py
 ```
 
-## Data and scope
-
-- `data/shangzheng_test.csv`: Shanghai Composite observations used by the original notebooks.
-- `data/huangjin_test.csv`: London Gold Fix observations used by the original notebooks.
-- `results/paper_result_tables.xlsx`: the final actual-versus-forecast tables used for the paper's reported values.
-- `results/*_forecast_new.xlsx`: archived model forecast output produced by the original forecast notebooks.
-
-The repository intentionally excludes unrelated regression, ETF, risk-neutral strategy, and earlier draft-result files. The source data are provided for academic reproducibility; users should independently verify upstream data-provider terms before reuse.
-
-## Citation
+## Author
 
 ```text
 Wang, Yiyang. “Research on the Impact of Tariff Incidents on the Stock and Gold Markets:
