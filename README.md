@@ -43,7 +43,7 @@ These comparisons are descriptive counterfactual results from the original paper
 │   ├── 02_gold_arima_diagnostics.ipynb
 │   ├── 03_ssec_counterfactual_forecast.ipynb
 │   └── 04_gold_counterfactual_forecast.ipynb
-├── paper                    # Paper title, venue, status, and abstract
+├── paper/                   # Paper title, venue, status, and abstract
 ├── results/                 # Archived forecasts and paper result tables
 └── requirements.txt
 ```
