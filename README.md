@@ -66,14 +66,6 @@ Return to the repository root to rebuild only the public CSV tables and README f
 python scripts/build_public_results.py
 ```
 
-## Author
-
-```text
-Wang, Yiyang. “Research on the Impact of Tariff Incidents on the Stock and Gold Markets:
-An Empirical Analysis Based on the ARIMA Model.” Proceedings of the 2025 5th
-International Conference on Economic Management and Corporate Governance (EMCG 2025), 2025.
-```
-
 ## Disclaimer
 
 This repository is for academic and portfolio purposes only. It does not provide investment advice, trading recommendations, or a production forecasting system.
