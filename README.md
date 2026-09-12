@@ -38,14 +38,13 @@ These comparisons are descriptive counterfactual results from the original paper
 .
 ├── assets/                  # README figures generated from archived results
 ├── data/                    # Input series used by the notebooks
-├── notebooks/
+├── code/
 │   ├── 01_ssec_arima_diagnostics.ipynb
 │   ├── 02_gold_arima_diagnostics.ipynb
 │   ├── 03_ssec_counterfactual_forecast.ipynb
 │   └── 04_gold_counterfactual_forecast.ipynb
-├── paper/PUBLICATION.md     # Paper title, venue, status, and abstract
+├── paper                    # Paper title, venue, status, and abstract
 ├── results/                 # Archived forecasts and paper result tables
-├── scripts/                 # Figure/table export only; no model refitting
 └── requirements.txt
 ```
 
