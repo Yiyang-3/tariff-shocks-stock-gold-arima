@@ -1,0 +1,9 @@
+arch
+jupyter
+matplotlib
+numpy
+openpyxl
+pandas
+pmdarima
+scipy
+statsmodels
