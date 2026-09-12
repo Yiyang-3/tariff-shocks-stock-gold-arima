@@ -2,10 +2,6 @@
 
 > An ARIMA-based empirical analysis of the Shanghai Composite Index and the London Gold Fix around the April 2025 tariff event.
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Method](https://img.shields.io/badge/Method-ARIMA-0F766E)](#method)
-[![Conference](https://img.shields.io/badge/EMCG-2025-7C3AED)](paper/PUBLICATION.md)
-
 This repository presents the original analysis behind the independently authored conference paper **“Research on the Impact of Tariff Incidents on the Stock and Gold Markets: An Empirical Analysis Based on the ARIMA Model.”** The paper was accepted by the **2025 5th International Conference on Economic Management and Corporate Governance (EMCG 2025)**.
 
 The work was conducted as a supervised research project from **April 2025 to May 2025**. It is organized here as an academic portfolio and reproducibility record; no models were re-estimated and no conclusions were added when preparing this repository.
